@@ -1,0 +1,7 @@
+gpio_bismar.c:6:6:enable_PORT	24	static
+gpio_bismar.c:21:6:set_asOUTPUT	32	static
+gpio_bismar.c:49:6:digitalREAD	24	static
+gpio_bismar.c:107:6:set_asOUTPUT_singlePIN	16	static
+gpio_bismar.c:132:6:digitalWrite_HIGH	32	static
+gpio_bismar.c:159:6:digitalWrite_HIGH_singlePIN	16	static
+gpio_bismar.c:181:6:digitalWrite_LOW	16	static

@@ -1,0 +1,2 @@
+HAL_RTC.c:10:6:HAL_RTC_SetTimePot	16	static
+HAL_RTC.c:24:6:HAL_RTC_Time2LCD	48	static

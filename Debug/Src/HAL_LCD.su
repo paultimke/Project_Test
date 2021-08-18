@@ -1,0 +1,9 @@
+stm32f3xx_ll_gpio.h:879:22:LL_GPIO_SetOutputPin	16	static
+stm32f3xx_ll_gpio.h:908:22:LL_GPIO_ResetOutputPin	16	static
+HAL_LCD.c:4:6:HAL_LCD_dataWrite	16	static
+HAL_LCD.c:14:6:HAL_LCD_cmdWrite	16	static
+HAL_LCD.c:24:6:HAL_LCD_dispImage	24	static
+HAL_LCD.c:69:6:HAL_LCD_printletter	24	static
+HAL_LCD.c:77:6:HAL_LCD_print	24	static
+HAL_LCD.c:95:6:HAL_LCD_Clear	24	static
+HAL_LCD.c:121:6:HAL_LCD_Init	8	static

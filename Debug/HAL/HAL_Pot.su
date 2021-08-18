@@ -1,0 +1,6 @@
+HAL_Pot.c:52:6:HAL_Pot_Available	8	static
+HAL_Pot.c:63:10:HAL_PotValue	24	static
+HAL_Pot.c:74:10:HAL_PotResult1	16	static
+HAL_Pot.c:81:10:HAL_PotResult2	16	static
+HAL_Pot.c:87:9:HAL_getHR	24	static
+HAL_Pot.c:184:9:HAL_getMin	24	static
