@@ -115,6 +115,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  
+	  uint8_t init_screen[8] = {'S', 'e', 'l', 'e', 'c', 't',':'};
+	  HAL_LCD_print(init_screen, 1, 40, 8);
 	  //Display Time
 	 	  HAL_RTC_Time2LCD(HHMMSS_DEFAULT_PAGE, HHMMSS_DEFAULT_COL, HAL_RTC_FORMAT_HHMMSS);
 
